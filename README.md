@@ -7,11 +7,12 @@ The tool now provide :
 3.Matrix smooth and noisy reduction
 4.single cell embedding and visualization
 
-## All required is Anaconda
-sklearn
-matplotlib
-pandas
-numpy
+## Required 
+*if is Anaconda you have installed anaconda, no more packages required*
+sklearn,
+matplotlib,
+pandas,
+numpy,
 scipy
 
 ## Usage
