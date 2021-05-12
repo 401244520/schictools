@@ -8,8 +8,7 @@ The tool now provide :
 4.single cell embedding and visualization  
 
 ## Required 
-*if is Anaconda you have installed anaconda, no more packages required*
-
+*if you have installed anaconda, no more packages required *  
 sklearn   
 matplotlib   
 pandas   
